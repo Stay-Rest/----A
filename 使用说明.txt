@@ -1,0 +1,3 @@
+该脚本以谷歌浏览器为操作端，所以您必须要有安装谷歌浏览器，您的python环境中必要有谷歌浏览器对应的chromedriver，chromedriver下载地址：http://chromedriver.storage.googleapis.com/index.html
+
+运行脚本后，需要您手动登录进入搜狗问问达人转移标签工作页面，然后在python的调试窗口输入任意值后回车，即可开始脚本自动转移
